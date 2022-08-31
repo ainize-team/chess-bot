@@ -13,6 +13,7 @@ from transformers import GPT2Config, GPT2LMHeadModel, GPT2Tokenizer
 from generator import Generator
 
 
+# TO-DO: 체스를 잘 둘 수 있는 모델 학습 및 구현(RNN 등을 이용)
 # Fine-tunning 모델 로드
 torch.manual_seed(42)
 tokenizer = GPT2Tokenizer.from_pretrained(
