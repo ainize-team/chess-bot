@@ -1,5 +1,0 @@
-chess==1.9.2
-discord.py @ git+https://github.com/Rapptz/discord.py@4182496713f854ff3dc7a949de2a0e18de31c417
-Pillow==9.2.0
-torch==1.12.0
-transformers==4.20.1
