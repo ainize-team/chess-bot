@@ -13,10 +13,10 @@ multi_line_output = 3
 use_parentheses = true
 
 [tool.poetry]
-name = "momo-bot"
+name = "chess-bot"
 version = "0.1.0"
 description = ""
-authors = ["Jeongho Ju <jeongho@comcom.ai>", "YoungJae Kim <byeongal@comcom.ai>"]
+authors = ["Jeongho Ju <jeongho@comcom.ai>", "YoungJae Kim <byeongal@comcom.ai>", "Donghoon Baek <baek@comcom.ai>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
